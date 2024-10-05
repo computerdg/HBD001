@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·½…8Îµñ¡2J$91662752-e740-411b-bd03-40e7a6da7fa1
+«
+java:S4165!"cRemove this useless assignment; "image" already holds the assigned value along all execution paths.(Ğ’ïÖüÿÿÿÿ8€„ñÄ¢2J$fb940921-7f4d-46ff-acc2-d2126d991bee
+°
+java:S4165"hRemove this useless assignment; "imageResId" already holds the assigned value along all execution paths.(¯íâ—øÿÿÿÿ8øŞñÄ¢2J$a9432852-ef89-4c62-a965-864f46a464a8
+o
+java:S1172 ",Remove this unused method parameter "image".(®„ò8„ñÄ¢2J$10bdf09f-de42-4a6b-89c8-43f91a3572e6
+w
+java:S1656!"/Remove or correct this useless self-assignment.(Ğ’ïÖüÿÿÿÿ8„ñÄ¢2J$496b7ef3-c8c8-4bea-a13f-da5bfa0692db
+w
+java:S1656"/Remove or correct this useless self-assignment.(¯íâ—øÿÿÿÿ8‡ßñÄ¢2J$f002ff81-d648-4523-a520-ad03df4d804f

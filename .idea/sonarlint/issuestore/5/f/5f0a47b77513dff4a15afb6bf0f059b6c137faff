@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚Ö½Òÿÿÿÿÿ
+p
+java:S1450"ZRemove the "chatAdapter" field and declare it as a local variable in the relevant methods.(†ÌÝ¤
+u
+java:S1450"ZRemove the "messageList" field and declare it as a local variable in the relevant methods.(ßþ©èøÿÿÿÿ
+v
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ

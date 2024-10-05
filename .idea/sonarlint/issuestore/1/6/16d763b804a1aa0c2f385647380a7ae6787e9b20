@@ -1,0 +1,13 @@
+
+k
+java:S1604'"(Make this anonymous inner class a lambda(×³Ç¬8Åáßá¤2J$0d9beb88-410b-4b97-8873-992050e0a4d0
+p
+java:S16041"(Make this anonymous inner class a lambda(Õƒ‹Òÿÿÿÿÿ8Åáßá¤2J$ccbb0d21-8d2f-4b2d-a6f6-a2e202c5726e
+p
+java:S1604A"(Make this anonymous inner class a lambda(°¢Ùäûÿÿÿÿ8Åáßá¤2J$f60a8158-9f1c-404b-871a-21bb64525faf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÇÌÑÿÿÿÿÿ8§ÎÔá¤2J$267d9a1b-1ff1-4a72-88d9-4dc3e49c984a
+›	java:S116"TRename this field "login_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à“±Øşÿÿÿÿ8Éáßá¤2J$41dc469a-8ba1-4c29-906d-efda547129f8
+
+java:S1450"[Remove the "buttonLogout" field and declare it as a local variable in the relevant methods.(´¼ç8Ìáßá¤2J$795805b0-9016-4cee-a62b-9c9cd85242a2
+ 
+java:S1450"XRemove the "login_btn" field and declare it as a local variable in the relevant methods.(à“±Øşÿÿÿÿ8Ìáßá¤2J$8fd262c3-257c-4fb8-bca3-34f7082c87d6

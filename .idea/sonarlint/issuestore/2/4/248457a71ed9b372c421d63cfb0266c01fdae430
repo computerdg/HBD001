@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×é©ÿÿÿÿÿ8Ù†Ìå¥2
+‚
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ô€¦Ïıÿÿÿÿ8‡†¸å¥2J$cd1b6e00-0aa7-411c-be02-8e23bba6c525
+I
+java:S1068",Remove this unused "BASE_URL" private field.(÷ÂÔ8ö†Ìå¥2

@@ -1,0 +1,14 @@
+
+p
+java:S16048"(Make this anonymous inner class a lambda(®Ëªïşÿÿÿÿ8ëÍËæ¥2J$37ae08ac-fc82-45b5-b36e-1f224d1f2b90
+k
+java:S1604D"(Make this anonymous inner class a lambda(Á»‰í8ëÍËæ¥2J$f744d167-6205-499e-8b52-90acffb26811
+k
+java:S1604L"(Make this anonymous inner class a lambda(…ˆ‘İ8ëÍËæ¥2J$dc78e17b-84da-4976-9260-d85d91fe8fd3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ö‘¨şÿÿÿÿ8ëÍËæ¥2J$c51223c5-4a0e-4d35-8f59-5b93008ef631
+
+java:S1659"MDeclare "editTextUsername" and all following declarations on a separate line.(‘ì ‹8öÍËæ¥2J$75e42146-1611-4c3c-8d70-687287e0bb1b
+§
+java:S1450"_Remove the "radioGroupGender" field and declare it as a local variable in the relevant methods.(Ãç¥Øûÿÿÿÿ8öÍËæ¥2J$56254e6e-3d76-4df3-a19b-fba308e11d9b
+š
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ãƒğıÿÿÿÿ8‚ÎËæ¥2J$b8e0f27b-b24d-4185-9559-57124b0336cc

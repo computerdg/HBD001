@@ -37,6 +37,10 @@
         <activity android:name=".Matching.Chat.ChatActivity"/>
         <activity android:name=".ProfileDetailActivity"/>
         <activity android:name=".MainActivity"/>
+        <activity android:name=".Login.LoginActivity" />
+        <activity android:name=".SignUp.SignupActivity" />
+
+
     </application>
 
 </manifest>

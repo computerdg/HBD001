@@ -3,7 +3,7 @@ import java.io.Serializable;
 
 public class UserProfile implements Serializable {
     private String nickname;
-//    private int imageResId;
+    private int imageResId;
     private String image;
     private String gender;
     private int age;
@@ -14,7 +14,7 @@ public class UserProfile implements Serializable {
         this.image = image;
         this.gender = gender;
         this.age = age;
-//        this.imageResId = imageResId;
+        this.imageResId = imageResId;
     }
 
     // 닉네임

@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.widget.VideoView;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.healthbuddypro.Login.LoginActivity;
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override

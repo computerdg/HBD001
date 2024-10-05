@@ -2,7 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="#ffffff">
 
     <ImageView
         android:id="@+id/imageViewLogo"
@@ -11,9 +12,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="20dp"
         android:layout_marginTop="140dp"
-        android:contentDescription="헬스버디로고"
-        android:scaleType="centerInside"
-        android:background="#EAEAEA"
+        android:src="@drawable/logo"
+        android:scaleType="centerCrop"
+        android:background="#ffffff"
         android:padding="20dp"/>
 
     <EditText
